@@ -2,4 +2,4 @@ Git is a distrabuted version control system.
 Git is free software distrabuted under GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-git creating a new branch is quick.
+git Creating a new branch is quick.
